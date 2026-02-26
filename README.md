@@ -62,7 +62,3 @@ ResearchAssist/
 ├── requirements.txt     # Python dependencies
 └── README.md            # This documentation
 ```
-
-## License
-
-MIT License – see `LICENSE` if present.
