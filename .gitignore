@@ -1,0 +1,25 @@
+# Ignore chroma vector store
+**/chroma_db/
+*.sqlite
+*.log
+
+# Ignore STT/TTS model files
+models/
+**/models/
+
+# Ignore papers directory
+**/papers/
+
+# Ignore pycache
+**/__pycache__/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+#.env files
+.env
+
+# Mac files
+.DS_Store

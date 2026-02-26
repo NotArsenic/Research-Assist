@@ -1,0 +1,31 @@
+# Core dependencies
+gradio>=4.0.0
+python-dotenv>=1.0.0
+
+# LLM and RAG
+langchain>=0.1.0
+langchain-groq>=0.0.1
+langchain-community>=0.0.1
+langchain-huggingface>=0.0.1
+
+# Vector store and embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# PDF processing
+pypdf>=3.0.0
+pymupdf>=1.23.0
+
+# Paper management
+arxiv>=2.0.0
+
+# Speech-to-Text
+openai-whisper>=20231117
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Text-to-Speech
+piper-tts>=1.2.0
+
+# Utilities
+numpy>=1.24.0
